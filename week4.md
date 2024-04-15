@@ -1,12 +1,21 @@
 Adam jones aisf summary:
+
 Task decomposition - breakdown task into smaller tasks that are easier to give feedback on
+
 Factored cognition hypothesis can break down complex tasks into small tasks
+
 Iterated amplification - breakdown tasks - can call tiself
+
 Iterated distilled amplification - learns lessons afterwards - can use as training ex
+
 Recursive reward modeling - use ai to make humans give better feedback
+
 Constitutional ai - give itself feedback based on guidelines
+
 Debate - two ais argue and human decides winner
+
 Debaters can point out when opponent is being sycophantic or deceptive
+
 Can also help humans make decisions - humans can provide feedback to debate 2
 Issues: truth isn’t always persuasive, arguments can have irreducible complexity - hard to breakdown into subtasks, models can collude
 Question: have models colluded in a scenario where the models weren’t specifically designed to be deceptive?
