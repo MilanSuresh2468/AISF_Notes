@@ -1,4 +1,4 @@
-# AISF_Notes
+# AISF Notes
 
 ## Notes from AI Safety Fundamentals Onwards on Course Materials and Live Sessions
 
