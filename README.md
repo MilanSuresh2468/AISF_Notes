@@ -2,5 +2,5 @@
 
 Notes from Week 3 of AI Safety Fundamentals Onwards on Course Materials and Live Sessions
 
-Not a complete set of notes, even on a week-to-week basis, and pretty messy
+This is messy and not a complete set of notes.
 
